@@ -1,0 +1,5 @@
+Accuracyk = 1: Accuracy: 0.8722635232266809
+Accuracyk = 3: Accuracy: 0.7531112662751057
+Accuracyk = 5: Accuracy: 0.6856286195424488
+Accuracyk = 7: Accuracy: 0.6421735737462521
+Accuracyk = 9: Accuracy: 0.6103010637860927

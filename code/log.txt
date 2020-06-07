@@ -1,0 +1,3677 @@
+
+Running program...
+
+Importing feature arrays from csv files...
+Loading ./Extracted Features/bass.csv
+index: 0
+data: 
+(79, 140)
+Loading ./Extracted Features/bass stick ride.csv
+index: 1
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick hihat-open.csv
+index: 2
+data: 
+(625, 140)
+Loading ./Extracted Features/bass hihat ride.csv
+index: 3
+data: 
+(625, 140)
+Loading ./Extracted Features/stick bell.csv
+index: 4
+data: 
+(625, 140)
+Loading ./Extracted Features/bass tom crash hihat-open.csv
+index: 5
+data: 
+(600, 140)
+Loading ./Extracted Features/bass snare stick.csv
+index: 6
+data: 
+(625, 140)
+Loading ./Extracted Features/hihat-open bell.csv
+index: 7
+data: 
+(600, 140)
+Loading ./Extracted Features/bass snare hihat-open.csv
+index: 8
+data: 
+(625, 140)
+Loading ./Extracted Features/bass floor ride hihat.csv
+index: 9
+data: 
+(550, 140)
+Loading ./Extracted Features/bass snare crash.csv
+index: 10
+data: 
+(625, 140)
+Loading ./Extracted Features/hihat.csv
+index: 11
+data: 
+(22, 140)
+Loading ./Extracted Features/bass tom ride hihat-open.csv
+index: 12
+data: 
+(600, 140)
+Loading ./Extracted Features/bass tom floor.csv
+index: 13
+data: 
+(625, 140)
+Loading ./Extracted Features/bass hihat-open crash.csv
+index: 14
+data: 
+(625, 140)
+Loading ./Extracted Features/bass tom bell hihat-open.csv
+index: 15
+data: 
+(600, 140)
+Loading ./Extracted Features/ride bell.csv
+index: 16
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick bell.csv
+index: 17
+data: 
+(625, 140)
+Loading ./Extracted Features/bass tom hihat.csv
+index: 18
+data: 
+(625, 140)
+Loading ./Extracted Features/tom hihat-open.csv
+index: 19
+data: 
+(600, 140)
+Loading ./Extracted Features/stick.csv
+index: 20
+data: 
+(32, 140)
+Loading ./Extracted Features/floor hihat.csv
+index: 21
+data: 
+(462, 140)
+Loading ./Extracted Features/bass tom bell hihat.csv
+index: 22
+data: 
+(550, 140)
+Loading ./Extracted Features/bass floor hihat.csv
+index: 23
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick bell hihat.csv
+index: 24
+data: 
+(550, 140)
+Loading ./Extracted Features/bass stick floor hihat-open.csv
+index: 25
+data: 
+(600, 140)
+Loading ./Extracted Features/bass stick hihat.csv
+index: 26
+data: 
+(625, 140)
+Loading ./Extracted Features/hihat hihat-open.csv
+index: 27
+data: 
+(528, 140)
+Loading ./Extracted Features/bass ride bell.csv
+index: 28
+data: 
+(625, 140)
+Loading ./Extracted Features/bass floor.csv
+index: 29
+data: 
+(525, 140)
+Loading ./Extracted Features/stick tom.csv
+index: 30
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick tom hihat.csv
+index: 31
+data: 
+(550, 140)
+Loading ./Extracted Features/rest.csv
+index: 32
+data: 
+(160, 140)
+Loading ./Extracted Features/bass stick crash.csv
+index: 33
+data: 
+(625, 140)
+Loading ./Extracted Features/tom hihat.csv
+index: 34
+data: 
+(550, 140)
+Loading ./Extracted Features/bass floor hihat-open.csv
+index: 35
+data: 
+(625, 140)
+Loading ./Extracted Features/crash bell.csv
+index: 36
+data: 
+(625, 140)
+Loading ./Extracted Features/hihat bell.csv
+index: 37
+data: 
+(550, 140)
+Loading ./Extracted Features/bass floor ride.csv
+index: 38
+data: 
+(625, 140)
+Loading ./Extracted Features/bass bell.csv
+index: 39
+data: 
+(625, 140)
+Loading ./Extracted Features/bass snare crash hihat.csv
+index: 40
+data: 
+(550, 140)
+Loading ./Extracted Features/bass hihat.csv
+index: 41
+data: 
+(550, 140)
+Loading ./Extracted Features/bass snare bell.csv
+index: 42
+data: 
+(625, 140)
+Loading ./Extracted Features/bass tom crash.csv
+index: 43
+data: 
+(625, 140)
+Loading ./Extracted Features/bass snare floor.csv
+index: 44
+data: 
+(625, 140)
+Loading ./Extracted Features/hihat-open.csv
+index: 45
+data: 
+(24, 140)
+Loading ./Extracted Features/bass snare tom.csv
+index: 46
+data: 
+(625, 140)
+Loading ./Extracted Features/hihat ride.csv
+index: 47
+data: 
+(550, 140)
+Loading ./Extracted Features/stick ride.csv
+index: 48
+data: 
+(625, 140)
+Loading ./Extracted Features/floor bell.csv
+index: 49
+data: 
+(525, 140)
+Loading ./Extracted Features/snare.csv
+index: 50
+data: 
+(60, 140)
+Loading ./Extracted Features/bass stick tom.csv
+index: 51
+data: 
+(625, 140)
+Loading ./Extracted Features/bass floor crash hihat.csv
+index: 52
+data: 
+(550, 140)
+Loading ./Extracted Features/snare stick.csv
+index: 53
+data: 
+(625, 140)
+Loading ./Extracted Features/bass hihat-open.csv
+index: 54
+data: 
+(600, 140)
+Loading ./Extracted Features/tom floor.csv
+index: 55
+data: 
+(525, 140)
+Loading ./Extracted Features/bass stick.csv
+index: 56
+data: 
+(625, 140)
+Loading ./Extracted Features/bass floor crash hihat-open.csv
+index: 57
+data: 
+(600, 140)
+Loading ./Extracted Features/snare ride.csv
+index: 58
+data: 
+(625, 140)
+Loading ./Extracted Features/bass floor ride hihat-open.csv
+index: 59
+data: 
+(600, 140)
+Loading ./Extracted Features/bass snare tom hihat-open.csv
+index: 60
+data: 
+(600, 140)
+Loading ./Extracted Features/bass snare ride hihat-open.csv
+index: 61
+data: 
+(600, 140)
+Loading ./Extracted Features/floor ride.csv
+index: 62
+data: 
+(525, 140)
+Loading ./Extracted Features/bass ride.csv
+index: 63
+data: 
+(625, 140)
+Loading ./Extracted Features/bass tom.csv
+index: 64
+data: 
+(625, 140)
+Loading ./Extracted Features/snare tom.csv
+index: 65
+data: 
+(625, 140)
+Loading ./Extracted Features/bass tom floor hihat.csv
+index: 66
+data: 
+(550, 140)
+Loading ./Extracted Features/bass snare hihat.csv
+index: 67
+data: 
+(625, 140)
+Loading ./Extracted Features/bass tom bell.csv
+index: 68
+data: 
+(625, 140)
+Loading ./Extracted Features/bass snare crash hihat-open.csv
+index: 69
+data: 
+(600, 140)
+Loading ./Extracted Features/ride.csv
+index: 70
+data: 
+(31, 140)
+Loading ./Extracted Features/tom bell.csv
+index: 71
+data: 
+(625, 140)
+Loading ./Extracted Features/floor.csv
+index: 72
+data: 
+(21, 140)
+Loading ./Extracted Features/snare floor.csv
+index: 73
+data: 
+(525, 140)
+Loading ./Extracted Features/bass tom ride hihat.csv
+index: 74
+data: 
+(550, 140)
+Loading ./Extracted Features/crash ride.csv
+index: 75
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick crash hihat-open.csv
+index: 76
+data: 
+(600, 140)
+Loading ./Extracted Features/crash.csv
+index: 77
+data: 
+(28, 140)
+Loading ./Extracted Features/bass crash bell hihat-open.csv
+index: 78
+data: 
+(600, 140)
+Loading ./Extracted Features/stick hihat-open.csv
+index: 79
+data: 
+(600, 140)
+Loading ./Extracted Features/bass crash.csv
+index: 80
+data: 
+(625, 140)
+Loading ./Extracted Features/bass floor bell.csv
+index: 81
+data: 
+(625, 140)
+Loading ./Extracted Features/bass snare stick hihat-open.csv
+index: 82
+data: 
+(600, 140)
+Loading ./Extracted Features/bass stick bell hihat-open.csv
+index: 83
+data: 
+(600, 140)
+Loading ./Extracted Features/bass floor bell hihat-open.csv
+index: 84
+data: 
+(600, 140)
+Loading ./Extracted Features/bass stick ride hihat-open.csv
+index: 85
+data: 
+(600, 140)
+Loading ./Extracted Features/tom.csv
+index: 86
+data: 
+(34, 140)
+Loading ./Extracted Features/bass crash bell hihat.csv
+index: 87
+data: 
+(550, 140)
+Loading ./Extracted Features/snare crash.csv
+index: 88
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick floor.csv
+index: 89
+data: 
+(625, 140)
+Loading ./Extracted Features/stick floor.csv
+index: 90
+data: 
+(525, 140)
+Loading ./Extracted Features/bass crash bell.csv
+index: 91
+data: 
+(625, 140)
+Loading ./Extracted Features/bass snare tom hihat.csv
+index: 92
+data: 
+(550, 140)
+Loading ./Extracted Features/bass tom floor hihat-open.csv
+index: 93
+data: 
+(600, 140)
+Loading ./Extracted Features/bass crash ride hihat.csv
+index: 94
+data: 
+(550, 140)
+Loading ./Extracted Features/bass stick tom hihat-open.csv
+index: 95
+data: 
+(600, 140)
+Loading ./Extracted Features/bell.csv
+index: 96
+data: 
+(27, 140)
+Loading ./Extracted Features/bass floor bell hihat.csv
+index: 97
+data: 
+(550, 140)
+Loading ./Extracted Features/bass tom ride.csv
+index: 98
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick floor hihat.csv
+index: 99
+data: 
+(550, 140)
+Loading ./Extracted Features/hihat crash.csv
+index: 100
+data: 
+(550, 140)
+Loading ./Extracted Features/bass hihat-open ride.csv
+index: 101
+data: 
+(625, 140)
+Loading ./Extracted Features/stick hihat.csv
+index: 102
+data: 
+(550, 140)
+Loading ./Extracted Features/bass snare floor hihat.csv
+index: 103
+data: 
+(550, 140)
+Loading ./Extracted Features/bass snare bell hihat.csv
+index: 104
+data: 
+(550, 140)
+Loading ./Extracted Features/bass hihat crash.csv
+index: 105
+data: 
+(625, 140)
+Loading ./Extracted Features/bass snare bell hihat-open.csv
+index: 106
+data: 
+(600, 140)
+Loading ./Extracted Features/bass snare.csv
+index: 107
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick crash hihat.csv
+index: 108
+data: 
+(550, 140)
+Loading ./Extracted Features/bass snare stick hihat.csv
+index: 109
+data: 
+(550, 140)
+Loading ./Extracted Features/bass snare ride.csv
+index: 110
+data: 
+(625, 140)
+Loading ./Extracted Features/hihat-open ride.csv
+index: 111
+data: 
+(600, 140)
+Loading ./Extracted Features/bass ride bell hihat-open.csv
+index: 112
+data: 
+(600, 140)
+Loading ./Extracted Features/floor hihat-open.csv
+index: 113
+data: 
+(504, 140)
+Loading ./Extracted Features/snare bell.csv
+index: 114
+data: 
+(625, 140)
+Loading ./Extracted Features/hihat-open crash.csv
+index: 115
+data: 
+(600, 140)
+Loading ./Extracted Features/bass tom crash hihat.csv
+index: 116
+data: 
+(550, 140)
+Loading ./Extracted Features/bass snare ride hihat.csv
+index: 117
+data: 
+(550, 140)
+Loading ./Extracted Features/bass hihat-open bell.csv
+index: 118
+data: 
+(625, 140)
+Loading ./Extracted Features/bass stick ride hihat.csv
+index: 119
+data: 
+(550, 140)
+Loading ./Extracted Features/tom ride.csv
+index: 120
+data: 
+(625, 140)
+Loading ./Extracted Features/bass hihat hihat-open.csv
+index: 121
+data: 
+(625, 140)
+Loading ./Extracted Features/bass floor crash.csv
+index: 122
+data: 
+(625, 140)
+Loading ./Extracted Features/floor crash.csv
+index: 123
+data: 
+(525, 140)
+Loading ./Extracted Features/bass tom hihat-open.csv
+index: 124
+data: 
+(625, 140)
+Loading ./Extracted Features/snare hihat-open.csv
+index: 125
+data: 
+(600, 140)
+Loading ./Extracted Features/bass crash ride hihat-open.csv
+index: 126
+data: 
+(600, 140)
+Loading ./Extracted Features/snare hihat.csv
+index: 127
+data: 
+(550, 140)
+Loading ./Extracted Features/bass ride bell hihat.csv
+index: 128
+data: 
+(550, 140)
+Loading ./Extracted Features/stick crash.csv
+index: 129
+data: 
+(625, 140)
+Loading ./Extracted Features/bass crash ride.csv
+index: 130
+data: 
+(625, 140)
+Loading ./Extracted Features/tom crash.csv
+index: 131
+data: 
+(625, 140)
+Loading ./Extracted Features/bass snare floor hihat-open.csv
+index: 132
+data: 
+(600, 140)
+Loading ./Extracted Features/bass hihat bell.csv
+index: 133
+data: 
+(625, 140)
+
+Directory './temp' already exists.
+
+class_code_dict: 
+bass: 0
+bass stick ride: 1
+bass stick hihat-open: 2
+bass hihat ride: 3
+stick bell: 4
+bass tom crash hihat-open: 5
+bass snare stick: 6
+hihat-open bell: 7
+bass snare hihat-open: 8
+bass floor ride hihat: 9
+bass snare crash: 10
+hihat: 11
+bass tom ride hihat-open: 12
+bass tom floor: 13
+bass hihat-open crash: 14
+bass tom bell hihat-open: 15
+ride bell: 16
+bass stick bell: 17
+bass tom hihat: 18
+tom hihat-open: 19
+stick: 20
+floor hihat: 21
+bass tom bell hihat: 22
+bass floor hihat: 23
+bass stick bell hihat: 24
+bass stick floor hihat-open: 25
+bass stick hihat: 26
+hihat hihat-open: 27
+bass ride bell: 28
+bass floor: 29
+stick tom: 30
+bass stick tom hihat: 31
+rest: 32
+bass stick crash: 33
+tom hihat: 34
+bass floor hihat-open: 35
+crash bell: 36
+hihat bell: 37
+bass floor ride: 38
+bass bell: 39
+bass snare crash hihat: 40
+bass hihat: 41
+bass snare bell: 42
+bass tom crash: 43
+bass snare floor: 44
+hihat-open: 45
+bass snare tom: 46
+hihat ride: 47
+stick ride: 48
+floor bell: 49
+snare: 50
+bass stick tom: 51
+bass floor crash hihat: 52
+snare stick: 53
+bass hihat-open: 54
+tom floor: 55
+bass stick: 56
+bass floor crash hihat-open: 57
+snare ride: 58
+bass floor ride hihat-open: 59
+bass snare tom hihat-open: 60
+bass snare ride hihat-open: 61
+floor ride: 62
+bass ride: 63
+bass tom: 64
+snare tom: 65
+bass tom floor hihat: 66
+bass snare hihat: 67
+bass tom bell: 68
+bass snare crash hihat-open: 69
+ride: 70
+tom bell: 71
+floor: 72
+snare floor: 73
+bass tom ride hihat: 74
+crash ride: 75
+bass stick crash hihat-open: 76
+crash: 77
+bass crash bell hihat-open: 78
+stick hihat-open: 79
+bass crash: 80
+bass floor bell: 81
+bass snare stick hihat-open: 82
+bass stick bell hihat-open: 83
+bass floor bell hihat-open: 84
+bass stick ride hihat-open: 85
+tom: 86
+bass crash bell hihat: 87
+snare crash: 88
+bass stick floor: 89
+stick floor: 90
+bass crash bell: 91
+bass snare tom hihat: 92
+bass tom floor hihat-open: 93
+bass crash ride hihat: 94
+bass stick tom hihat-open: 95
+bell: 96
+bass floor bell hihat: 97
+bass tom ride: 98
+bass stick floor hihat: 99
+hihat crash: 100
+bass hihat-open ride: 101
+stick hihat: 102
+bass snare floor hihat: 103
+bass snare bell hihat: 104
+bass hihat crash: 105
+bass snare bell hihat-open: 106
+bass snare: 107
+bass stick crash hihat: 108
+bass snare stick hihat: 109
+bass snare ride: 110
+hihat-open ride: 111
+bass ride bell hihat-open: 112
+floor hihat-open: 113
+snare bell: 114
+hihat-open crash: 115
+bass tom crash hihat: 116
+bass snare ride hihat: 117
+bass hihat-open bell: 118
+bass stick ride hihat: 119
+tom ride: 120
+bass hihat hihat-open: 121
+bass floor crash: 122
+floor crash: 123
+bass tom hihat-open: 124
+snare hihat-open: 125
+bass crash ride hihat-open: 126
+snare hihat: 127
+bass ride bell hihat: 128
+stick crash: 129
+bass crash ride: 130
+tom crash: 131
+bass snare floor hihat-open: 132
+bass hihat bell: 133
+bass shape: (79, 140)
+bass size: 79
+name: bass
+index: 0
+total: 79
+name: bass
+index: 1
+total: 79
+bass stick ride shape: (625, 140)
+bass stick ride size: 625
+name: bass stick ride
+index: 0
+total: 625
+name: bass stick ride
+index: 1
+total: 625
+combined_features.shape: 
+(2, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(4, 140)
+bass stick hihat-open shape: (625, 140)
+bass stick hihat-open size: 625
+name: bass stick hihat-open
+index: 0
+total: 625
+name: bass stick hihat-open
+index: 1
+total: 625
+combined_features.shape: 
+(4, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(6, 140)
+bass hihat ride shape: (625, 140)
+bass hihat ride size: 625
+name: bass hihat ride
+index: 0
+total: 625
+name: bass hihat ride
+index: 1
+total: 625
+combined_features.shape: 
+(6, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(8, 140)
+stick bell shape: (625, 140)
+stick bell size: 625
+name: stick bell
+index: 0
+total: 625
+name: stick bell
+index: 1
+total: 625
+combined_features.shape: 
+(8, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(10, 140)
+bass tom crash hihat-open shape: (600, 140)
+bass tom crash hihat-open size: 600
+name: bass tom crash hihat-open
+index: 0
+total: 600
+name: bass tom crash hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(10, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(12, 140)
+bass snare stick shape: (625, 140)
+bass snare stick size: 625
+name: bass snare stick
+index: 0
+total: 625
+name: bass snare stick
+index: 1
+total: 625
+combined_features.shape: 
+(12, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(14, 140)
+hihat-open bell shape: (600, 140)
+hihat-open bell size: 600
+name: hihat-open bell
+index: 0
+total: 600
+name: hihat-open bell
+index: 1
+total: 600
+combined_features.shape: 
+(14, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(16, 140)
+bass snare hihat-open shape: (625, 140)
+bass snare hihat-open size: 625
+name: bass snare hihat-open
+index: 0
+total: 625
+name: bass snare hihat-open
+index: 1
+total: 625
+combined_features.shape: 
+(16, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(18, 140)
+bass floor ride hihat shape: (550, 140)
+bass floor ride hihat size: 550
+name: bass floor ride hihat
+index: 0
+total: 550
+name: bass floor ride hihat
+index: 1
+total: 550
+combined_features.shape: 
+(18, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(20, 140)
+bass snare crash shape: (625, 140)
+bass snare crash size: 625
+name: bass snare crash
+index: 0
+total: 625
+name: bass snare crash
+index: 1
+total: 625
+combined_features.shape: 
+(20, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(22, 140)
+hihat shape: (22, 140)
+hihat size: 22
+name: hihat
+index: 0
+total: 22
+name: hihat
+index: 1
+total: 22
+combined_features.shape: 
+(22, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(24, 140)
+bass tom ride hihat-open shape: (600, 140)
+bass tom ride hihat-open size: 600
+name: bass tom ride hihat-open
+index: 0
+total: 600
+name: bass tom ride hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(24, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(26, 140)
+bass tom floor shape: (625, 140)
+bass tom floor size: 625
+name: bass tom floor
+index: 0
+total: 625
+name: bass tom floor
+index: 1
+total: 625
+combined_features.shape: 
+(26, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(28, 140)
+bass hihat-open crash shape: (625, 140)
+bass hihat-open crash size: 625
+name: bass hihat-open crash
+index: 0
+total: 625
+name: bass hihat-open crash
+index: 1
+total: 625
+combined_features.shape: 
+(28, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(30, 140)
+bass tom bell hihat-open shape: (600, 140)
+bass tom bell hihat-open size: 600
+name: bass tom bell hihat-open
+index: 0
+total: 600
+name: bass tom bell hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(30, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(32, 140)
+ride bell shape: (625, 140)
+ride bell size: 625
+name: ride bell
+index: 0
+total: 625
+name: ride bell
+index: 1
+total: 625
+combined_features.shape: 
+(32, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(34, 140)
+bass stick bell shape: (625, 140)
+bass stick bell size: 625
+name: bass stick bell
+index: 0
+total: 625
+name: bass stick bell
+index: 1
+total: 625
+combined_features.shape: 
+(34, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(36, 140)
+bass tom hihat shape: (625, 140)
+bass tom hihat size: 625
+name: bass tom hihat
+index: 0
+total: 625
+name: bass tom hihat
+index: 1
+total: 625
+combined_features.shape: 
+(36, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(38, 140)
+tom hihat-open shape: (600, 140)
+tom hihat-open size: 600
+name: tom hihat-open
+index: 0
+total: 600
+name: tom hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(38, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(40, 140)
+stick shape: (32, 140)
+stick size: 32
+name: stick
+index: 0
+total: 32
+name: stick
+index: 1
+total: 32
+combined_features.shape: 
+(40, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(42, 140)
+floor hihat shape: (462, 140)
+floor hihat size: 462
+name: floor hihat
+index: 0
+total: 462
+name: floor hihat
+index: 1
+total: 462
+combined_features.shape: 
+(42, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(44, 140)
+bass tom bell hihat shape: (550, 140)
+bass tom bell hihat size: 550
+name: bass tom bell hihat
+index: 0
+total: 550
+name: bass tom bell hihat
+index: 1
+total: 550
+combined_features.shape: 
+(44, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(46, 140)
+bass floor hihat shape: (625, 140)
+bass floor hihat size: 625
+name: bass floor hihat
+index: 0
+total: 625
+name: bass floor hihat
+index: 1
+total: 625
+combined_features.shape: 
+(46, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(48, 140)
+bass stick bell hihat shape: (550, 140)
+bass stick bell hihat size: 550
+name: bass stick bell hihat
+index: 0
+total: 550
+name: bass stick bell hihat
+index: 1
+total: 550
+combined_features.shape: 
+(48, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(50, 140)
+bass stick floor hihat-open shape: (600, 140)
+bass stick floor hihat-open size: 600
+name: bass stick floor hihat-open
+index: 0
+total: 600
+name: bass stick floor hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(50, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(52, 140)
+bass stick hihat shape: (625, 140)
+bass stick hihat size: 625
+name: bass stick hihat
+index: 0
+total: 625
+name: bass stick hihat
+index: 1
+total: 625
+combined_features.shape: 
+(52, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(54, 140)
+hihat hihat-open shape: (528, 140)
+hihat hihat-open size: 528
+name: hihat hihat-open
+index: 0
+total: 528
+name: hihat hihat-open
+index: 1
+total: 528
+combined_features.shape: 
+(54, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(56, 140)
+bass ride bell shape: (625, 140)
+bass ride bell size: 625
+name: bass ride bell
+index: 0
+total: 625
+name: bass ride bell
+index: 1
+total: 625
+combined_features.shape: 
+(56, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(58, 140)
+bass floor shape: (525, 140)
+bass floor size: 525
+name: bass floor
+index: 0
+total: 525
+name: bass floor
+index: 1
+total: 525
+combined_features.shape: 
+(58, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(60, 140)
+stick tom shape: (625, 140)
+stick tom size: 625
+name: stick tom
+index: 0
+total: 625
+name: stick tom
+index: 1
+total: 625
+combined_features.shape: 
+(60, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(62, 140)
+bass stick tom hihat shape: (550, 140)
+bass stick tom hihat size: 550
+name: bass stick tom hihat
+index: 0
+total: 550
+name: bass stick tom hihat
+index: 1
+total: 550
+combined_features.shape: 
+(62, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(64, 140)
+rest shape: (160, 140)
+rest size: 160
+name: rest
+index: 0
+total: 160
+name: rest
+index: 1
+total: 160
+combined_features.shape: 
+(64, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(66, 140)
+bass stick crash shape: (625, 140)
+bass stick crash size: 625
+name: bass stick crash
+index: 0
+total: 625
+name: bass stick crash
+index: 1
+total: 625
+combined_features.shape: 
+(66, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(68, 140)
+tom hihat shape: (550, 140)
+tom hihat size: 550
+name: tom hihat
+index: 0
+total: 550
+name: tom hihat
+index: 1
+total: 550
+combined_features.shape: 
+(68, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(70, 140)
+bass floor hihat-open shape: (625, 140)
+bass floor hihat-open size: 625
+name: bass floor hihat-open
+index: 0
+total: 625
+name: bass floor hihat-open
+index: 1
+total: 625
+combined_features.shape: 
+(70, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(72, 140)
+crash bell shape: (625, 140)
+crash bell size: 625
+name: crash bell
+index: 0
+total: 625
+name: crash bell
+index: 1
+total: 625
+combined_features.shape: 
+(72, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(74, 140)
+hihat bell shape: (550, 140)
+hihat bell size: 550
+name: hihat bell
+index: 0
+total: 550
+name: hihat bell
+index: 1
+total: 550
+combined_features.shape: 
+(74, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(76, 140)
+bass floor ride shape: (625, 140)
+bass floor ride size: 625
+name: bass floor ride
+index: 0
+total: 625
+name: bass floor ride
+index: 1
+total: 625
+combined_features.shape: 
+(76, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(78, 140)
+bass bell shape: (625, 140)
+bass bell size: 625
+name: bass bell
+index: 0
+total: 625
+name: bass bell
+index: 1
+total: 625
+combined_features.shape: 
+(78, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(80, 140)
+bass snare crash hihat shape: (550, 140)
+bass snare crash hihat size: 550
+name: bass snare crash hihat
+index: 0
+total: 550
+name: bass snare crash hihat
+index: 1
+total: 550
+combined_features.shape: 
+(80, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(82, 140)
+bass hihat shape: (550, 140)
+bass hihat size: 550
+name: bass hihat
+index: 0
+total: 550
+name: bass hihat
+index: 1
+total: 550
+combined_features.shape: 
+(82, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(84, 140)
+bass snare bell shape: (625, 140)
+bass snare bell size: 625
+name: bass snare bell
+index: 0
+total: 625
+name: bass snare bell
+index: 1
+total: 625
+combined_features.shape: 
+(84, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(86, 140)
+bass tom crash shape: (625, 140)
+bass tom crash size: 625
+name: bass tom crash
+index: 0
+total: 625
+name: bass tom crash
+index: 1
+total: 625
+combined_features.shape: 
+(86, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(88, 140)
+bass snare floor shape: (625, 140)
+bass snare floor size: 625
+name: bass snare floor
+index: 0
+total: 625
+name: bass snare floor
+index: 1
+total: 625
+combined_features.shape: 
+(88, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(90, 140)
+hihat-open shape: (24, 140)
+hihat-open size: 24
+name: hihat-open
+index: 0
+total: 24
+name: hihat-open
+index: 1
+total: 24
+combined_features.shape: 
+(90, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(92, 140)
+bass snare tom shape: (625, 140)
+bass snare tom size: 625
+name: bass snare tom
+index: 0
+total: 625
+name: bass snare tom
+index: 1
+total: 625
+combined_features.shape: 
+(92, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(94, 140)
+hihat ride shape: (550, 140)
+hihat ride size: 550
+name: hihat ride
+index: 0
+total: 550
+name: hihat ride
+index: 1
+total: 550
+combined_features.shape: 
+(94, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(96, 140)
+stick ride shape: (625, 140)
+stick ride size: 625
+name: stick ride
+index: 0
+total: 625
+name: stick ride
+index: 1
+total: 625
+combined_features.shape: 
+(96, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(98, 140)
+floor bell shape: (525, 140)
+floor bell size: 525
+name: floor bell
+index: 0
+total: 525
+name: floor bell
+index: 1
+total: 525
+combined_features.shape: 
+(98, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(100, 140)
+snare shape: (60, 140)
+snare size: 60
+name: snare
+index: 0
+total: 60
+name: snare
+index: 1
+total: 60
+combined_features.shape: 
+(100, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(102, 140)
+bass stick tom shape: (625, 140)
+bass stick tom size: 625
+name: bass stick tom
+index: 0
+total: 625
+name: bass stick tom
+index: 1
+total: 625
+combined_features.shape: 
+(102, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(104, 140)
+bass floor crash hihat shape: (550, 140)
+bass floor crash hihat size: 550
+name: bass floor crash hihat
+index: 0
+total: 550
+name: bass floor crash hihat
+index: 1
+total: 550
+combined_features.shape: 
+(104, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(106, 140)
+snare stick shape: (625, 140)
+snare stick size: 625
+name: snare stick
+index: 0
+total: 625
+name: snare stick
+index: 1
+total: 625
+combined_features.shape: 
+(106, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(108, 140)
+bass hihat-open shape: (600, 140)
+bass hihat-open size: 600
+name: bass hihat-open
+index: 0
+total: 600
+name: bass hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(108, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(110, 140)
+tom floor shape: (525, 140)
+tom floor size: 525
+name: tom floor
+index: 0
+total: 525
+name: tom floor
+index: 1
+total: 525
+combined_features.shape: 
+(110, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(112, 140)
+bass stick shape: (625, 140)
+bass stick size: 625
+name: bass stick
+index: 0
+total: 625
+name: bass stick
+index: 1
+total: 625
+combined_features.shape: 
+(112, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(114, 140)
+bass floor crash hihat-open shape: (600, 140)
+bass floor crash hihat-open size: 600
+name: bass floor crash hihat-open
+index: 0
+total: 600
+name: bass floor crash hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(114, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(116, 140)
+snare ride shape: (625, 140)
+snare ride size: 625
+name: snare ride
+index: 0
+total: 625
+name: snare ride
+index: 1
+total: 625
+combined_features.shape: 
+(116, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(118, 140)
+bass floor ride hihat-open shape: (600, 140)
+bass floor ride hihat-open size: 600
+name: bass floor ride hihat-open
+index: 0
+total: 600
+name: bass floor ride hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(118, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(120, 140)
+bass snare tom hihat-open shape: (600, 140)
+bass snare tom hihat-open size: 600
+name: bass snare tom hihat-open
+index: 0
+total: 600
+name: bass snare tom hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(120, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(122, 140)
+bass snare ride hihat-open shape: (600, 140)
+bass snare ride hihat-open size: 600
+name: bass snare ride hihat-open
+index: 0
+total: 600
+name: bass snare ride hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(122, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(124, 140)
+floor ride shape: (525, 140)
+floor ride size: 525
+name: floor ride
+index: 0
+total: 525
+name: floor ride
+index: 1
+total: 525
+combined_features.shape: 
+(124, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(126, 140)
+bass ride shape: (625, 140)
+bass ride size: 625
+name: bass ride
+index: 0
+total: 625
+name: bass ride
+index: 1
+total: 625
+combined_features.shape: 
+(126, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(128, 140)
+bass tom shape: (625, 140)
+bass tom size: 625
+name: bass tom
+index: 0
+total: 625
+name: bass tom
+index: 1
+total: 625
+combined_features.shape: 
+(128, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(130, 140)
+snare tom shape: (625, 140)
+snare tom size: 625
+name: snare tom
+index: 0
+total: 625
+name: snare tom
+index: 1
+total: 625
+combined_features.shape: 
+(130, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(132, 140)
+bass tom floor hihat shape: (550, 140)
+bass tom floor hihat size: 550
+name: bass tom floor hihat
+index: 0
+total: 550
+name: bass tom floor hihat
+index: 1
+total: 550
+combined_features.shape: 
+(132, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(134, 140)
+bass snare hihat shape: (625, 140)
+bass snare hihat size: 625
+name: bass snare hihat
+index: 0
+total: 625
+name: bass snare hihat
+index: 1
+total: 625
+combined_features.shape: 
+(134, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(136, 140)
+bass tom bell shape: (625, 140)
+bass tom bell size: 625
+name: bass tom bell
+index: 0
+total: 625
+name: bass tom bell
+index: 1
+total: 625
+combined_features.shape: 
+(136, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(138, 140)
+bass snare crash hihat-open shape: (600, 140)
+bass snare crash hihat-open size: 600
+name: bass snare crash hihat-open
+index: 0
+total: 600
+name: bass snare crash hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(138, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(140, 140)
+ride shape: (31, 140)
+ride size: 31
+name: ride
+index: 0
+total: 31
+name: ride
+index: 1
+total: 31
+combined_features.shape: 
+(140, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(142, 140)
+tom bell shape: (625, 140)
+tom bell size: 625
+name: tom bell
+index: 0
+total: 625
+name: tom bell
+index: 1
+total: 625
+combined_features.shape: 
+(142, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(144, 140)
+floor shape: (21, 140)
+floor size: 21
+name: floor
+index: 0
+total: 21
+name: floor
+index: 1
+total: 21
+combined_features.shape: 
+(144, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(146, 140)
+snare floor shape: (525, 140)
+snare floor size: 525
+name: snare floor
+index: 0
+total: 525
+name: snare floor
+index: 1
+total: 525
+combined_features.shape: 
+(146, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(148, 140)
+bass tom ride hihat shape: (550, 140)
+bass tom ride hihat size: 550
+name: bass tom ride hihat
+index: 0
+total: 550
+name: bass tom ride hihat
+index: 1
+total: 550
+combined_features.shape: 
+(148, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(150, 140)
+crash ride shape: (625, 140)
+crash ride size: 625
+name: crash ride
+index: 0
+total: 625
+name: crash ride
+index: 1
+total: 625
+combined_features.shape: 
+(150, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(152, 140)
+bass stick crash hihat-open shape: (600, 140)
+bass stick crash hihat-open size: 600
+name: bass stick crash hihat-open
+index: 0
+total: 600
+name: bass stick crash hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(152, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(154, 140)
+crash shape: (28, 140)
+crash size: 28
+name: crash
+index: 0
+total: 28
+name: crash
+index: 1
+total: 28
+combined_features.shape: 
+(154, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(156, 140)
+bass crash bell hihat-open shape: (600, 140)
+bass crash bell hihat-open size: 600
+name: bass crash bell hihat-open
+index: 0
+total: 600
+name: bass crash bell hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(156, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(158, 140)
+stick hihat-open shape: (600, 140)
+stick hihat-open size: 600
+name: stick hihat-open
+index: 0
+total: 600
+name: stick hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(158, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(160, 140)
+bass crash shape: (625, 140)
+bass crash size: 625
+name: bass crash
+index: 0
+total: 625
+name: bass crash
+index: 1
+total: 625
+combined_features.shape: 
+(160, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(162, 140)
+bass floor bell shape: (625, 140)
+bass floor bell size: 625
+name: bass floor bell
+index: 0
+total: 625
+name: bass floor bell
+index: 1
+total: 625
+combined_features.shape: 
+(162, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(164, 140)
+bass snare stick hihat-open shape: (600, 140)
+bass snare stick hihat-open size: 600
+name: bass snare stick hihat-open
+index: 0
+total: 600
+name: bass snare stick hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(164, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(166, 140)
+bass stick bell hihat-open shape: (600, 140)
+bass stick bell hihat-open size: 600
+name: bass stick bell hihat-open
+index: 0
+total: 600
+name: bass stick bell hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(166, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(168, 140)
+bass floor bell hihat-open shape: (600, 140)
+bass floor bell hihat-open size: 600
+name: bass floor bell hihat-open
+index: 0
+total: 600
+name: bass floor bell hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(168, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(170, 140)
+bass stick ride hihat-open shape: (600, 140)
+bass stick ride hihat-open size: 600
+name: bass stick ride hihat-open
+index: 0
+total: 600
+name: bass stick ride hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(170, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(172, 140)
+tom shape: (34, 140)
+tom size: 34
+name: tom
+index: 0
+total: 34
+name: tom
+index: 1
+total: 34
+combined_features.shape: 
+(172, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(174, 140)
+bass crash bell hihat shape: (550, 140)
+bass crash bell hihat size: 550
+name: bass crash bell hihat
+index: 0
+total: 550
+name: bass crash bell hihat
+index: 1
+total: 550
+combined_features.shape: 
+(174, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(176, 140)
+snare crash shape: (625, 140)
+snare crash size: 625
+name: snare crash
+index: 0
+total: 625
+name: snare crash
+index: 1
+total: 625
+combined_features.shape: 
+(176, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(178, 140)
+bass stick floor shape: (625, 140)
+bass stick floor size: 625
+name: bass stick floor
+index: 0
+total: 625
+name: bass stick floor
+index: 1
+total: 625
+combined_features.shape: 
+(178, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(180, 140)
+stick floor shape: (525, 140)
+stick floor size: 525
+name: stick floor
+index: 0
+total: 525
+name: stick floor
+index: 1
+total: 525
+combined_features.shape: 
+(180, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(182, 140)
+bass crash bell shape: (625, 140)
+bass crash bell size: 625
+name: bass crash bell
+index: 0
+total: 625
+name: bass crash bell
+index: 1
+total: 625
+combined_features.shape: 
+(182, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(184, 140)
+bass snare tom hihat shape: (550, 140)
+bass snare tom hihat size: 550
+name: bass snare tom hihat
+index: 0
+total: 550
+name: bass snare tom hihat
+index: 1
+total: 550
+combined_features.shape: 
+(184, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(186, 140)
+bass tom floor hihat-open shape: (600, 140)
+bass tom floor hihat-open size: 600
+name: bass tom floor hihat-open
+index: 0
+total: 600
+name: bass tom floor hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(186, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(188, 140)
+bass crash ride hihat shape: (550, 140)
+bass crash ride hihat size: 550
+name: bass crash ride hihat
+index: 0
+total: 550
+name: bass crash ride hihat
+index: 1
+total: 550
+combined_features.shape: 
+(188, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(190, 140)
+bass stick tom hihat-open shape: (600, 140)
+bass stick tom hihat-open size: 600
+name: bass stick tom hihat-open
+index: 0
+total: 600
+name: bass stick tom hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(190, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(192, 140)
+bell shape: (27, 140)
+bell size: 27
+name: bell
+index: 0
+total: 27
+name: bell
+index: 1
+total: 27
+combined_features.shape: 
+(192, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(194, 140)
+bass floor bell hihat shape: (550, 140)
+bass floor bell hihat size: 550
+name: bass floor bell hihat
+index: 0
+total: 550
+name: bass floor bell hihat
+index: 1
+total: 550
+combined_features.shape: 
+(194, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(196, 140)
+bass tom ride shape: (625, 140)
+bass tom ride size: 625
+name: bass tom ride
+index: 0
+total: 625
+name: bass tom ride
+index: 1
+total: 625
+combined_features.shape: 
+(196, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(198, 140)
+bass stick floor hihat shape: (550, 140)
+bass stick floor hihat size: 550
+name: bass stick floor hihat
+index: 0
+total: 550
+name: bass stick floor hihat
+index: 1
+total: 550
+combined_features.shape: 
+(198, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(200, 140)
+hihat crash shape: (550, 140)
+hihat crash size: 550
+name: hihat crash
+index: 0
+total: 550
+name: hihat crash
+index: 1
+total: 550
+combined_features.shape: 
+(200, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(202, 140)
+bass hihat-open ride shape: (625, 140)
+bass hihat-open ride size: 625
+name: bass hihat-open ride
+index: 0
+total: 625
+name: bass hihat-open ride
+index: 1
+total: 625
+combined_features.shape: 
+(202, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(204, 140)
+stick hihat shape: (550, 140)
+stick hihat size: 550
+name: stick hihat
+index: 0
+total: 550
+name: stick hihat
+index: 1
+total: 550
+combined_features.shape: 
+(204, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(206, 140)
+bass snare floor hihat shape: (550, 140)
+bass snare floor hihat size: 550
+name: bass snare floor hihat
+index: 0
+total: 550
+name: bass snare floor hihat
+index: 1
+total: 550
+combined_features.shape: 
+(206, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(208, 140)
+bass snare bell hihat shape: (550, 140)
+bass snare bell hihat size: 550
+name: bass snare bell hihat
+index: 0
+total: 550
+name: bass snare bell hihat
+index: 1
+total: 550
+combined_features.shape: 
+(208, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(210, 140)
+bass hihat crash shape: (625, 140)
+bass hihat crash size: 625
+name: bass hihat crash
+index: 0
+total: 625
+name: bass hihat crash
+index: 1
+total: 625
+combined_features.shape: 
+(210, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(212, 140)
+bass snare bell hihat-open shape: (600, 140)
+bass snare bell hihat-open size: 600
+name: bass snare bell hihat-open
+index: 0
+total: 600
+name: bass snare bell hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(212, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(214, 140)
+bass snare shape: (625, 140)
+bass snare size: 625
+name: bass snare
+index: 0
+total: 625
+name: bass snare
+index: 1
+total: 625
+combined_features.shape: 
+(214, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(216, 140)
+bass stick crash hihat shape: (550, 140)
+bass stick crash hihat size: 550
+name: bass stick crash hihat
+index: 0
+total: 550
+name: bass stick crash hihat
+index: 1
+total: 550
+combined_features.shape: 
+(216, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(218, 140)
+bass snare stick hihat shape: (550, 140)
+bass snare stick hihat size: 550
+name: bass snare stick hihat
+index: 0
+total: 550
+name: bass snare stick hihat
+index: 1
+total: 550
+combined_features.shape: 
+(218, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(220, 140)
+bass snare ride shape: (625, 140)
+bass snare ride size: 625
+name: bass snare ride
+index: 0
+total: 625
+name: bass snare ride
+index: 1
+total: 625
+combined_features.shape: 
+(220, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(222, 140)
+hihat-open ride shape: (600, 140)
+hihat-open ride size: 600
+name: hihat-open ride
+index: 0
+total: 600
+name: hihat-open ride
+index: 1
+total: 600
+combined_features.shape: 
+(222, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(224, 140)
+bass ride bell hihat-open shape: (600, 140)
+bass ride bell hihat-open size: 600
+name: bass ride bell hihat-open
+index: 0
+total: 600
+name: bass ride bell hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(224, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(226, 140)
+floor hihat-open shape: (504, 140)
+floor hihat-open size: 504
+name: floor hihat-open
+index: 0
+total: 504
+name: floor hihat-open
+index: 1
+total: 504
+combined_features.shape: 
+(226, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(228, 140)
+snare bell shape: (625, 140)
+snare bell size: 625
+name: snare bell
+index: 0
+total: 625
+name: snare bell
+index: 1
+total: 625
+combined_features.shape: 
+(228, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(230, 140)
+hihat-open crash shape: (600, 140)
+hihat-open crash size: 600
+name: hihat-open crash
+index: 0
+total: 600
+name: hihat-open crash
+index: 1
+total: 600
+combined_features.shape: 
+(230, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(232, 140)
+bass tom crash hihat shape: (550, 140)
+bass tom crash hihat size: 550
+name: bass tom crash hihat
+index: 0
+total: 550
+name: bass tom crash hihat
+index: 1
+total: 550
+combined_features.shape: 
+(232, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(234, 140)
+bass snare ride hihat shape: (550, 140)
+bass snare ride hihat size: 550
+name: bass snare ride hihat
+index: 0
+total: 550
+name: bass snare ride hihat
+index: 1
+total: 550
+combined_features.shape: 
+(234, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(236, 140)
+bass hihat-open bell shape: (625, 140)
+bass hihat-open bell size: 625
+name: bass hihat-open bell
+index: 0
+total: 625
+name: bass hihat-open bell
+index: 1
+total: 625
+combined_features.shape: 
+(236, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(238, 140)
+bass stick ride hihat shape: (550, 140)
+bass stick ride hihat size: 550
+name: bass stick ride hihat
+index: 0
+total: 550
+name: bass stick ride hihat
+index: 1
+total: 550
+combined_features.shape: 
+(238, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(240, 140)
+tom ride shape: (625, 140)
+tom ride size: 625
+name: tom ride
+index: 0
+total: 625
+name: tom ride
+index: 1
+total: 625
+combined_features.shape: 
+(240, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(242, 140)
+bass hihat hihat-open shape: (625, 140)
+bass hihat hihat-open size: 625
+name: bass hihat hihat-open
+index: 0
+total: 625
+name: bass hihat hihat-open
+index: 1
+total: 625
+combined_features.shape: 
+(242, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(244, 140)
+bass floor crash shape: (625, 140)
+bass floor crash size: 625
+name: bass floor crash
+index: 0
+total: 625
+name: bass floor crash
+index: 1
+total: 625
+combined_features.shape: 
+(244, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(246, 140)
+floor crash shape: (525, 140)
+floor crash size: 525
+name: floor crash
+index: 0
+total: 525
+name: floor crash
+index: 1
+total: 525
+combined_features.shape: 
+(246, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(248, 140)
+bass tom hihat-open shape: (625, 140)
+bass tom hihat-open size: 625
+name: bass tom hihat-open
+index: 0
+total: 625
+name: bass tom hihat-open
+index: 1
+total: 625
+combined_features.shape: 
+(248, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(250, 140)
+snare hihat-open shape: (600, 140)
+snare hihat-open size: 600
+name: snare hihat-open
+index: 0
+total: 600
+name: snare hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(250, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(252, 140)
+bass crash ride hihat-open shape: (600, 140)
+bass crash ride hihat-open size: 600
+name: bass crash ride hihat-open
+index: 0
+total: 600
+name: bass crash ride hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(252, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(254, 140)
+snare hihat shape: (550, 140)
+snare hihat size: 550
+name: snare hihat
+index: 0
+total: 550
+name: snare hihat
+index: 1
+total: 550
+combined_features.shape: 
+(254, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(256, 140)
+bass ride bell hihat shape: (550, 140)
+bass ride bell hihat size: 550
+name: bass ride bell hihat
+index: 0
+total: 550
+name: bass ride bell hihat
+index: 1
+total: 550
+combined_features.shape: 
+(256, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(258, 140)
+stick crash shape: (625, 140)
+stick crash size: 625
+name: stick crash
+index: 0
+total: 625
+name: stick crash
+index: 1
+total: 625
+combined_features.shape: 
+(258, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(260, 140)
+bass crash ride shape: (625, 140)
+bass crash ride size: 625
+name: bass crash ride
+index: 0
+total: 625
+name: bass crash ride
+index: 1
+total: 625
+combined_features.shape: 
+(260, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(262, 140)
+tom crash shape: (625, 140)
+tom crash size: 625
+name: tom crash
+index: 0
+total: 625
+name: tom crash
+index: 1
+total: 625
+combined_features.shape: 
+(262, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(264, 140)
+bass snare floor hihat-open shape: (600, 140)
+bass snare floor hihat-open size: 600
+name: bass snare floor hihat-open
+index: 0
+total: 600
+name: bass snare floor hihat-open
+index: 1
+total: 600
+combined_features.shape: 
+(264, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(266, 140)
+bass hihat bell shape: (625, 140)
+bass hihat bell size: 625
+name: bass hihat bell
+index: 0
+total: 625
+name: bass hihat bell
+index: 1
+total: 625
+combined_features.shape: 
+(266, 140)
+features.shape: 
+(2, 140)
+combined_features.shape: 
+(268, 140)
+
+labels list len: 268
+features shape: (268, 140)
+features size: 37520
+
+Test Classify...
+Accuracy: 0.024691358024691357
+Extracting...
+Extracting features of an onset...
+
+feat_arr.shape: 
+(140,)
+
+Classify...
+Converting 1d array input into 2d...
+prediction:
+[29]
+Predicted instrument:
+bass floor
+tempo: 60.09265988372093
+
+Slicing audio input...
+Loading audio: ./slow_beat.mp3
+
+average_interval: 21443.0
+
+sample_diff: 22016
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+audio: 000
+onset_indices: []
+sub_tempo: 0
+sub_beats: []
+start-stop difference: 1972
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+
+audio: 001
+onset_indices: [ 1024  2560  4608  6656  8192 10240 12800 15360 20480]
+sub_tempo: 0
+sub_beats: []
+start-stop difference: 21504
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 2560
+onset: 4608
+onset: 6656
+onset: 8192
+onset: 10240
+onset: 12800
+onset: 15360
+onset: 20480
+
+audio: 002
+onset_indices: [ 1024  2560  5120  7680 11776 13312 19456]
+sub_tempo: 117.45383522727273
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 2560
+onset: 5120
+onset: 7680
+onset: 11776
+onset: 13312
+onset: 19456
+
+audio: 003
+onset_indices: [ 1024  4608 16896 18432 19456]
+sub_tempo: 117.45383522727273
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 4608
+onset: 16896
+onset: 18432
+onset: 19456
+
+audio: 004
+onset_indices: [ 1024 13824 17920 20480]
+sub_tempo: 117.45383522727273
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 13824
+onset: 17920
+onset: 20480
+
+audio: 005
+onset_indices: [ 1024  2560  6144 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 2560
+onset: 6144
+onset: 11264
+
+audio: 006
+onset_indices: [ 1024 10752]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 007
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 008
+onset_indices: [ 1024 10752]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 009
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 010
+onset_indices: [ 1024 10752]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 011
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 012
+onset_indices: [ 1024 10752]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 013
+onset_indices: [ 1024 11776]
+sub_tempo: 117.45383522727273
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11776
+
+audio: 014
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 015
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 016
+onset_indices: [ 1024 11776]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11776
+
+audio: 017
+onset_indices: [ 1024 11776]
+sub_tempo: 117.45383522727273
+sub_beats: [1536]
+start-stop difference: 22528
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11776
+
+audio: 018
+onset_indices: [ 1024 10752]
+sub_tempo: 129.19921875
+sub_beats: [ 1536 11776]
+start-stop difference: 21504
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 019
+onset_indices: [ 1024 11264]
+sub_tempo: 117.45383522727273
+sub_beats: [1536]
+start-stop difference: 22528
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 020
+onset_indices: [ 1024  5632 10240 15872]
+sub_tempo: 234.90767045454547
+sub_beats: [ 6656 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 5632
+onset: 10240
+onset: 15872
+
+audio: 021
+onset_indices: [ 1024  2560 11264 15360]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 2560
+onset: 11264
+onset: 15360
+
+audio: 022
+onset_indices: [ 1024 10752]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 023
+onset_indices: [1024 9728]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 9728
+
+audio: 024
+onset_indices: [ 1024 10752]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 025
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 026
+onset_indices: [ 1024 10752]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 027
+onset_indices: [ 1024 10752]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 10752
+
+audio: 028
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [ 1536 12288]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 029
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 030
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 031
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 032
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+audio: 033
+onset_indices: [ 1024 11776]
+sub_tempo: 117.45383522727273
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11776
+
+audio: 034
+onset_indices: [ 1024 11264]
+sub_tempo: 123.046875
+sub_beats: [1536]
+start-stop difference: 22016
+average_interval: 21443.0
+
+Note division:
+1 [ 0.0:2680.375] | e [2680.375:8041.125] | & [8041.125:13401.875] | a [13401.875:18762.625]
+
+Identifying beats per quarter note duration...
+onset: 1024
+onset: 11264
+
+index: 0
+
+index: 1
+1 [4532, 4652]
+e [8628, 10013]
+& [14772, 15373]
+a [17332, 20734]
+
+index: 2
+1 [26036, 26156]
+e [31156, 31517]
+& [36788, 36877]
+
+index: 3
+1 [46516, 48172]
+e [50100, 53533]
+a [63924, 64254]
+
+index: 4
+1 [68532, 70188]
+a [85428, 86270]
+
+index: 5
+1 [92084, 92204]
+e [95668, 97565]
+& [100788, 102925]
+
+index: 6
+1 [112564, 114220]
+& [122292, 124941]
+
+index: 7
+1 [134580, 136236]
+& [144820, 146957]
+
+index: 8
+1 [156596, 158252]
+& [166324, 168973]
+
+index: 9
+1 [178612, 180268]
+& [188852, 190989]
+
+index: 10
+1 [200628, 202284]
+& [210356, 213005]
+
+index: 11
+1 [222644, 224300]
+& [232884, 235021]
+
+index: 12
+1 [244660, 246316]
+& [254388, 257037]
+
+index: 13
+1 [266676, 268332]
+& [277428, 279053]
+
+index: 14
+1 [288692, 290348]
+& [298932, 301069]
+
+index: 15
+1 [310708, 312364]
+& [320948, 323085]
+
+index: 16
+1 [332724, 334380]
+& [343476, 345101]
+
+index: 17
+1 [354740, 356396]
+& [365492, 367117]
+
+index: 18
+1 [377268, 378924]
+& [386996, 389645]
+
+index: 19
+1 [398772, 400428]
+& [409012, 411149]
+
+index: 20
+1 [421300, 422956]
+e [425908, 428317]
+& [430516, 433677]
+a [436148, 439038]
+
+index: 21
+1 [444852, 444972]
+& [453556, 455693]
+a [457652, 461054]
+
+index: 22
+1 [465332, 466988]
+& [475060, 477709]
+
+index: 23
+1 [487348, 489004]
+& [496052, 499725]
+
+index: 24
+1 [509364, 511020]
+& [519092, 521741]
+
+index: 25
+1 [531380, 533036]
+& [541620, 543757]
+
+index: 26
+1 [553396, 555052]
+& [563124, 565773]
+
+index: 27
+1 [575412, 577068]
+& [585140, 587789]
+
+index: 28
+1 [597428, 599084]
+& [607668, 609805]
+
+index: 29
+1 [619444, 621100]
+& [629684, 631821]
+
+index: 30
+1 [641460, 643116]
+& [651700, 653837]
+
+index: 31
+1 [663476, 665132]
+& [673716, 675853]
+
+index: 32
+1 [685492, 687148]
+& [695732, 697869]
+
+index: 33
+1 [707508, 709164]
+& [718260, 719885]
+
+index: 34
+1 [729524, 731180]
+& [739764, 741901]
+Extracting input audio features...
+Downbeat frames: [  91  263  435  607  779  952 1124 1296]
+Downbeat times in s: [ 2.11301587  6.10684807 10.10068027 14.09451247 18.08834467 22.10539683
+ 26.09922902 30.09306122]
+Downbeat samples as indices [ 46592 134656 222720 310784 398848 487424 575488 663552]
+sixteenth_note_index: 0
+down_beat_index: 0
+Finding 46592
+Between 4532 to 4652
+Range: range(4532, 4652)
+Downbeat? No
+sixteenth_note_index: 1
+down_beat_index: 0
+Finding 46592
+Between 8628 to 10013
+Range: range(8628, 10013)
+Downbeat? No
+sixteenth_note_index: 2
+down_beat_index: 0
+Finding 46592
+Between 14772 to 15373
+Range: range(14772, 15373)
+Downbeat? No
+sixteenth_note_index: 3
+down_beat_index: 0
+Finding 46592
+Between 17332 to 20734
+Range: range(17332, 20734)
+Downbeat? No
+sixteenth_note_index: 4
+down_beat_index: 0
+Finding 46592
+Between 26036 to 26156
+Range: range(26036, 26156)
+Downbeat? No
+sixteenth_note_index: 5
+down_beat_index: 0
+Finding 46592
+Between 31156 to 31517
+Range: range(31156, 31517)
+Downbeat? No
+sixteenth_note_index: 6
+down_beat_index: 0
+Finding 46592
+Between 36788 to 36877
+Range: range(36788, 36877)
+Downbeat? No
+sixteenth_note_index: 7
+down_beat_index: 0
+Finding 46592
+Between 46516 to 48172
+Range: range(46516, 48172)
+Downbeat? Yes
+key: 1, must be 1
+got_first_downbeat_count: 1
+sixteenth_note_index: 8
+down_beat_index: 1
+Finding 134656
+Between 50100 to 53533
+Range: range(50100, 53533)
+Downbeat? No
+sixteenth_note_index: 9
+down_beat_index: 1
+Finding 134656
+Between 63924 to 64254
+Range: range(63924, 64254)
+Downbeat? No
+sixteenth_note_index: 10
+down_beat_index: 1
+Finding 134656
+Between 68532 to 70188
+Range: range(68532, 70188)
+Downbeat? No
+sixteenth_note_index: 11
+down_beat_index: 1
+Finding 134656
+Between 85428 to 86270
+Range: range(85428, 86270)
+Downbeat? No
+sixteenth_note_index: 12
+down_beat_index: 1
+Finding 134656
+Between 92084 to 92204
+Range: range(92084, 92204)
+Downbeat? No
+sixteenth_note_index: 13
+down_beat_index: 1
+Finding 134656
+Between 95668 to 97565
+Range: range(95668, 97565)
+Downbeat? No
+sixteenth_note_index: 14
+down_beat_index: 1
+Finding 134656
+Between 100788 to 102925
+Range: range(100788, 102925)
+Downbeat? No
+sixteenth_note_index: 15
+down_beat_index: 1
+Finding 134656
+Between 112564 to 114220
+Range: range(112564, 114220)
+Downbeat? No
+sixteenth_note_index: 16
+down_beat_index: 1
+Finding 134656
+Between 122292 to 124941
+Range: range(122292, 124941)
+Downbeat? No
+sixteenth_note_index: 17
+down_beat_index: 1
+Finding 134656
+Between 134580 to 136236
+Range: range(134580, 136236)
+Downbeat? Yes
+key: 1, must be 1
+got_first_downbeat_count: 2
+sixteenth_note_index: 18
+down_beat_index: 2
+Finding 222720
+Between 144820 to 146957
+Range: range(144820, 146957)
+Downbeat? No
+sixteenth_note_index: 19
+down_beat_index: 2
+Finding 222720
+Between 156596 to 158252
+Range: range(156596, 158252)
+Downbeat? No
+sixteenth_note_index: 20
+down_beat_index: 2
+Finding 222720
+Between 166324 to 168973
+Range: range(166324, 168973)
+Downbeat? No
+sixteenth_note_index: 21
+down_beat_index: 2
+Finding 222720
+Between 178612 to 180268
+Range: range(178612, 180268)
+Downbeat? No
+sixteenth_note_index: 22
+down_beat_index: 2
+Finding 222720
+Between 188852 to 190989
+Range: range(188852, 190989)
+Downbeat? No
+sixteenth_note_index: 23
+down_beat_index: 2
+Finding 222720
+Between 200628 to 202284
+Range: range(200628, 202284)
+Downbeat? No
+sixteenth_note_index: 24
+down_beat_index: 2
+Finding 222720
+Between 210356 to 213005
+Range: range(210356, 213005)
+Downbeat? No
+sixteenth_note_index: 25
+down_beat_index: 2
+Finding 222720
+Between 222644 to 224300
+Range: range(222644, 224300)
+Downbeat? Yes
+key: 1, must be 1
+got_first_downbeat_count: 3
+sixteenth_note_index: 26
+down_beat_index: 3
+Finding 310784
+Between 232884 to 235021
+Range: range(232884, 235021)
+Downbeat? No
+sixteenth_note_index: 27
+down_beat_index: 3
+Finding 310784
+Between 244660 to 246316
+Range: range(244660, 246316)
+Downbeat? No
+sixteenth_note_index: 28
+down_beat_index: 3
+Finding 310784
+Between 254388 to 257037
+Range: range(254388, 257037)
+Downbeat? No
+sixteenth_note_index: 29
+down_beat_index: 3
+Finding 310784
+Between 266676 to 268332
+Range: range(266676, 268332)
+Downbeat? No
+sixteenth_note_index: 30
+down_beat_index: 3
+Finding 310784
+Between 277428 to 279053
+Range: range(277428, 279053)
+Downbeat? No
+sixteenth_note_index: 31
+down_beat_index: 3
+Finding 310784
+Between 288692 to 290348
+Range: range(288692, 290348)
+Downbeat? No
+sixteenth_note_index: 32
+down_beat_index: 3
+Finding 310784
+Between 298932 to 301069
+Range: range(298932, 301069)
+Downbeat? No
+sixteenth_note_index: 33
+down_beat_index: 3
+Finding 310784
+Between 310708 to 312364
+Range: range(310708, 312364)
+Downbeat? Yes
+key: 1, must be 1
+got_first_downbeat_count: 4
+sixteenth_note_index: 34
+down_beat_index: 4
+Finding 398848
+Between 320948 to 323085
+Range: range(320948, 323085)
+Downbeat? No
+sixteenth_note_index: 35
+down_beat_index: 4
+Finding 398848
+Between 332724 to 334380
+Range: range(332724, 334380)
+Downbeat? No
+sixteenth_note_index: 36
+down_beat_index: 4
+Finding 398848
+Between 343476 to 345101
+Range: range(343476, 345101)
+Downbeat? No
+sixteenth_note_index: 37
+down_beat_index: 4
+Finding 398848
+Between 354740 to 356396
+Range: range(354740, 356396)
+Downbeat? No
+sixteenth_note_index: 38
+down_beat_index: 4
+Finding 398848
+Between 365492 to 367117
+Range: range(365492, 367117)
+Downbeat? No
+sixteenth_note_index: 39
+down_beat_index: 4
+Finding 398848
+Between 377268 to 378924
+Range: range(377268, 378924)
+Downbeat? No
+sixteenth_note_index: 40
+down_beat_index: 4
+Finding 398848
+Between 386996 to 389645
+Range: range(386996, 389645)
+Downbeat? No
+sixteenth_note_index: 41
+down_beat_index: 4
+Finding 398848
+Between 398772 to 400428
+Range: range(398772, 400428)
+Downbeat? Yes
+key: 1, must be 1
+got_first_downbeat_count: 5
+sixteenth_note_index: 42
+down_beat_index: 5
+Finding 487424
+Between 409012 to 411149
+Range: range(409012, 411149)
+Downbeat? No
+sixteenth_note_index: 43
+down_beat_index: 5
+Finding 487424
+Between 421300 to 422956
+Range: range(421300, 422956)
+Downbeat? No
+sixteenth_note_index: 44
+down_beat_index: 5
+Finding 487424
+Between 425908 to 428317
+Range: range(425908, 428317)
+Downbeat? No
+sixteenth_note_index: 45
+down_beat_index: 5
+Finding 487424
+Between 430516 to 433677
+Range: range(430516, 433677)
+Downbeat? No
+sixteenth_note_index: 46
+down_beat_index: 5
+Finding 487424
+Between 436148 to 439038
+Range: range(436148, 439038)
+Downbeat? No
+sixteenth_note_index: 47
+down_beat_index: 5
+Finding 487424
+Between 444852 to 444972
+Range: range(444852, 444972)
+Downbeat? No
+sixteenth_note_index: 48
+down_beat_index: 5
+Finding 487424
+Between 453556 to 455693
+Range: range(453556, 455693)
+Downbeat? No
+sixteenth_note_index: 49
+down_beat_index: 5
+Finding 487424
+Between 457652 to 461054
+Range: range(457652, 461054)
+Downbeat? No
+sixteenth_note_index: 50
+down_beat_index: 5
+Finding 487424
+Between 465332 to 466988
+Range: range(465332, 466988)
+Downbeat? No
+sixteenth_note_index: 51
+down_beat_index: 5
+Finding 487424
+Between 475060 to 477709
+Range: range(475060, 477709)
+Downbeat? No
+sixteenth_note_index: 52
+down_beat_index: 5
+Finding 487424
+Between 487348 to 489004
+Range: range(487348, 489004)
+Downbeat? Yes
+key: 1, must be 1
+got_first_downbeat_count: 6
+sixteenth_note_index: 53
+down_beat_index: 6
+Finding 575488
+Between 496052 to 499725
+Range: range(496052, 499725)
+Downbeat? No
+sixteenth_note_index: 54
+down_beat_index: 6
+Finding 575488
+Between 509364 to 511020
+Range: range(509364, 511020)
+Downbeat? No
+sixteenth_note_index: 55
+down_beat_index: 6
+Finding 575488
+Between 519092 to 521741
+Range: range(519092, 521741)
+Downbeat? No
+sixteenth_note_index: 56
+down_beat_index: 6
+Finding 575488
+Between 531380 to 533036
+Range: range(531380, 533036)
+Downbeat? No
+sixteenth_note_index: 57
+down_beat_index: 6
+Finding 575488
+Between 541620 to 543757
+Range: range(541620, 543757)
+Downbeat? No
+sixteenth_note_index: 58
+down_beat_index: 6
+Finding 575488
+Between 553396 to 555052
+Range: range(553396, 555052)
+Downbeat? No
+sixteenth_note_index: 59
+down_beat_index: 6
+Finding 575488
+Between 563124 to 565773
+Range: range(563124, 565773)
+Downbeat? No
+sixteenth_note_index: 60
+down_beat_index: 6
+Finding 575488
+Between 575412 to 577068
+Range: range(575412, 577068)
+Downbeat? Yes
+key: 1, must be 1
+got_first_downbeat_count: 7
+sixteenth_note_index: 61
+down_beat_index: 7
+Finding 663552
+Between 585140 to 587789
+Range: range(585140, 587789)
+Downbeat? No
+sixteenth_note_index: 62
+down_beat_index: 7
+Finding 663552
+Between 597428 to 599084
+Range: range(597428, 599084)
+Downbeat? No
+sixteenth_note_index: 63
+down_beat_index: 7
+Finding 663552
+Between 607668 to 609805
+Range: range(607668, 609805)
+Downbeat? No
+sixteenth_note_index: 64
+down_beat_index: 7
+Finding 663552
+Between 619444 to 621100
+Range: range(619444, 621100)
+Downbeat? No
+sixteenth_note_index: 65
+down_beat_index: 7
+Finding 663552
+Between 629684 to 631821
+Range: range(629684, 631821)
+Downbeat? No
+sixteenth_note_index: 66
+down_beat_index: 7
+Finding 663552
+Between 641460 to 643116
+Range: range(641460, 643116)
+Downbeat? No
+sixteenth_note_index: 67
+down_beat_index: 7
+Finding 663552
+Between 651700 to 653837
+Range: range(651700, 653837)
+Downbeat? No
+sixteenth_note_index: 68
+down_beat_index: 7
+Finding 663552
+Between 663476 to 665132
+Range: range(663476, 665132)
+Downbeat? Yes
+key: 1, must be 1
+got_first_downbeat_count: 8
+
+in_aud_feat_arr.shape: (77, 140)
+down_beat_sixteenth_note_indices:
+[7, 17, 25, 33, 41, 52, 60, 68]
+Classifying input...
+
+Classify...
